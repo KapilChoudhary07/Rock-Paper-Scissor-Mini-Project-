@@ -50,14 +50,17 @@ If both choose the same → **It’s a Draw!**
 
 ## 💻 How to Run the Project
 
-1. Download or clone the repository:
+1.Download or clone the repository:
 https://github.com/KapilChoudhary07/Rock-Paper-Scissor-Mini-Project-.git
 
-2.Open the project folder.
+2.Live link for testing
+https://kapilchoudhary07.github.io/Rock-Paper-Scissor-Mini-Project-/
 
-3.Double-click on index.html to open it in your browser.
+3.Open the project folder.
 
-4.Start playing and enjoy the game!
+4.Double-click on index.html to open it in your browser.
+
+5.Start playing and enjoy the game!
 
 
 🧠 Learning Outcomes
