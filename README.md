@@ -53,7 +53,6 @@ If both choose the same → **It’s a Draw!**
 1. Download or clone the repository:
 https://github.com/KapilChoudhary07/Rock-Paper-Scissor-Mini-Project-.git
 
-
 2.Open the project folder.
 
 3.Double-click on index.html to open it in your browser.
