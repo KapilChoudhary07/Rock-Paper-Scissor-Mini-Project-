@@ -75,6 +75,10 @@ If both choose the same → **It’s a Draw!**
 - Basic game logic implementation using if-else conditions
 
 
+📸 Screenshot
+<img width="1914" height="966" alt="Screenshot 2025-11-12 152329" src="https://github.com/user-attachments/assets/777bdc7d-4b8f-473f-ae0e-6dfaca9fe2e1" />
+
+
 👨‍💻 Author
 
 Kapil Choudhary
