@@ -54,7 +54,7 @@ If both choose the same → **It’s a Draw!**
 https://github.com/KapilChoudhary07/Rock-Paper-Scissor-Mini-Project-.git
 
 2.Live link for testing
-https://codeplayzone.github.io/Rock-Paper-Scissor-Mini-Project-/
+https://kapilchoudhary07.github.io/Rock-Paper-Scissor-Mini-Project-/
 
 3.Open the project folder.
 
